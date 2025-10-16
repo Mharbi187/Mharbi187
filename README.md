@@ -49,5 +49,3 @@
   </a>
 </div>
 
-###
-cdn.jsdelivr.net
