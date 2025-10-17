@@ -39,7 +39,7 @@
 ---
 
 ### 🌐 Frontend
-<p align="center">
+<p align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" width="36" alt="css3 logo"  />
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React"/>
