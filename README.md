@@ -15,15 +15,19 @@
 
 # 💻 Tech Stack
 
-### 🧠 **Languages**
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+### 🧠 **Programming Languages (latest official icons)**
+<p>
+  <img alt="C" src="https://cdn.simpleicons.org/c/00599C" width="36" height="36" style="vertical-align:middle"/> <strong>C</strong> &nbsp;&nbsp;
+  <img alt="C++" src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" height="36" style="vertical-align:middle"/> <strong>C++</strong> &nbsp;&nbsp;
+  <img alt="Java" src="https://cdn.simpleicons.org/java/ED8B00" width="36" height="36" style="vertical-align:middle"/> <strong>Java</strong> &nbsp;&nbsp;
+  <img alt="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" style="vertical-align:middle"/> <strong>JavaScript</strong> &nbsp;&nbsp;
+  <img alt="TypeScript" src="https://cdn.simpleicons.org/typescript/007ACC" width="36" height="36" style="vertical-align:middle"/> <strong>TypeScript</strong> &nbsp;&nbsp;
+  <img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" style="vertical-align:middle"/> <strong>Python</strong> &nbsp;&nbsp;
+  <img alt="PHP" src="https://cdn.simpleicons.org/php/777BB4" width="36" height="36" style="vertical-align:middle"/> <strong>PHP</strong> &nbsp;&nbsp;
+  <img alt="R" src="https://cdn.simpleicons.org/r/276DC3" width="36" height="36" style="vertical-align:middle"/> <strong>R</strong>
+</p>
+
+---
 
 ### 🌐 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
