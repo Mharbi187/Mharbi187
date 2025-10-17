@@ -2,7 +2,7 @@
 👋 Hi, I'm **Mohamed Harbi**  
 🎓 Computer Science Student  
 💻 MERN Stack Developer  
-🤖 Passionate about **AI & Machine Learning**  
+🤖 Passionate about **AI & Machine Learning**
 
 ---
 
@@ -52,12 +52,12 @@
 ### 🧰 Backend & Tools
 <p align="center">
   <img src="https://cdn.simpleicons.org/node.js/339933" width="36" height="36" alt="Node.js"/>
-  <img src="https://cdn.simpleicons.org/express/ffffff" width="36" height="36" alt="Express.js"/> <!-- white version for dark mode -->
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="36" height="36" alt="Express.js"/>
   <img src="https://cdn.simpleicons.org/fastapi/009688" width="36" height="36" alt="FastAPI"/>
   <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="36" height="36" alt="JWT"/>
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" height="36" alt="Firebase"/>
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="36" height="36" alt="Netlify"/>
-  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="36" height="36" alt="Vercel"/> <!-- white for dark mode -->
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="36" height="36" alt="Vercel"/>
   <img src="https://cdn.simpleicons.org/apache/D22128" width="36" height="36" alt="Apache"/>
 </p>
 
@@ -65,9 +65,9 @@
 
 ### 🧠 AI / Data Science
 <p align="center">
-  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="36" height="36" alt="NumPy"/> <!-- brighter blue -->
-  <img src="https://cdn.simpleicons.org/pandas/FFCA00" width="36" height="36" alt="Pandas"/> <!-- yellow to stand out on dark -->
-  <img src="https://cdn.simpleicons.org/matplotlib/3366CC" width="36" height="36" alt="Matplotlib"/> <!-- bright blue for dark -->
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="36" height="36" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/pandas/FFCA00" width="36" height="36" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="36" height="36" alt="Matplotlib"/>
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="Scikit-Learn"/>
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" height="36" alt="TensorFlow"/>
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="36" height="36" alt="PyTorch"/>
@@ -78,7 +78,7 @@
 ### 🛠 Other Tools
 <p align="center">
   <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="36" height="36" alt="GitHub"/> <!-- white for dark mode -->
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub"/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker"/>
   <img src="https://cdn.simpleicons.org/jira/0052CC" width="36" height="36" alt="Jira"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="36" height="36" alt="Postman"/>
@@ -111,5 +111,3 @@
     <img src="https://visitcount.itsvg.in/api?id=Mharbi187&icon=0&color=12" alt="Profile views"/>
   </a>
 </p>
-
-<!-- Created with ❤️ by Mohamed Harbi -->
