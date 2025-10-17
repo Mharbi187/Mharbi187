@@ -12,7 +12,8 @@
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" height="36" alt="Facebook"/>
   </a>
   <a href="https://www.linkedin.com/in/mohamed-harbi-4385471ab">
-    <img src="https://icons8.com/icon/8808/linkedin" width="36" height="36" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
   </a>
   <a href="mailto:hrbim756@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail"/>
@@ -40,7 +41,7 @@
 ### 🌐 Frontend
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="36" height="36" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React Native"/>
   <img src="https://cdn.simpleicons.org/vite/646CFF" width="36" height="36" alt="Vite"/>
