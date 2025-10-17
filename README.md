@@ -9,13 +9,13 @@
 ## 🌐 Socials
 <p align="center">
   <a href="https://www.facebook.com/mohamed.harbi.371662/">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat" width="36" height="36" alt=""/>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" height="36" alt="Facebook"/>
   </a>
   <a href="https://www.linkedin.com/in/mohamed-harbi-4385471ab">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" width="36" height="36" alt=""/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn"/>
   </a>
   <a href="mailto:hrbim756@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat" width="36" height="36" alt=""/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail"/>
   </a>
 </p>
 
@@ -25,65 +25,65 @@
 
 ### 🧠 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Java-ED1D25?logo=openjdk&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat" width="36" height="36" alt=""/>
+  <img src="https://cdn.simpleicons.org/c/00599C" width="36" height="36" alt="C"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" height="36" alt="C++"/>
+  <img src="https://cdn.simpleicons.org/java/F80000" width="36" height="36" alt="Java"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="36" height="36" alt="PHP"/>
+  <img src="https://cdn.simpleicons.org/r/276DC3" width="36" height="36" alt="R"/>
 </p>
 
 ---
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" width="36" height="36" alt=""/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="36" height="36" alt="CSS3"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React Native"/>
+  <img src="https://cdn.simpleicons.org/vite/646CFF" width="36" height="36" alt="Vite"/>
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="36" height="36" alt="Bootstrap"/>
 </p>
 
 ---
 
 ### 🧰 Backend & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat" width="36" height="36" alt=""/>
+  <img src="https://cdn.simpleicons.org/node.js/339933" width="36" height="36" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="36" height="36" alt="Express.js"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="36" height="36" alt="FastAPI"/>
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="36" height="36" alt="JWT"/>
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" height="36" alt="Firebase"/>
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="36" height="36" alt="Netlify"/>
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="36" height="36" alt="Vercel"/>
+  <img src="https://cdn.simpleicons.org/apache/D22128" width="36" height="36" alt="Apache"/>
 </p>
 
 ---
 
 ### 🧠 AI / Data Science
 <p align="center">
-  <img src="https://img.shields.io/badge/-NumPy-4DABCF?logo=numpy&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" width="36" height="36" alt=""/>
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="36" height="36" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/pandas/FFCA00" width="36" height="36" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="36" height="36" alt="Matplotlib"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="Scikit-Learn"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" height="36" alt="TensorFlow"/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="36" height="36" alt="PyTorch"/>
 </p>
 
 ---
 
 ### 🛠 Other Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat" width="36" height="36" alt=""/>
-  <img src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobexd&logoColor=white&style=flat" width="36" height="36" alt=""/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="36" height="36" alt="Jira"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="36" height="36" alt="Postman"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="36" height="36" alt="Figma"/>
+  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" width="36" height="36" alt="Adobe XD"/>
 </p>
 
 ---
@@ -108,6 +108,6 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Mharbi187&icon=0&color=12" alt=""/>
+    <img src="https://visitcount.itsvg.in/api?id=Mharbi187&icon=0&color=12" alt="Profile views"/>
   </a>
 </p>
