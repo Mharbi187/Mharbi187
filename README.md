@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Socials
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/mohamed.harbi.371662/">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" height="36" alt="Facebook"/>
   </a>
@@ -25,7 +25,7 @@
 ## 💻 Tech Stack
 
 ### 🧠 Programming Languages
-<p align="center">
+<p align="left">
   <img src="https://cdn.simpleicons.org/c/00599C" width="36" height="36" alt="C"/>
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" height="36" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" width="36" alt="java logo" />
@@ -51,7 +51,7 @@
 ---
 
 ### 🧰 Backend & Tools
-<p align="center">
+<p align="left">
   <img src="https://cdn.simpleicons.org/node.js/339933" width="36" height="36" alt="Node.js"/>
   <img src="https://cdn.simpleicons.org/express/FFFFFF" width="36" height="36" alt="Express.js"/>
   <img src="https://cdn.simpleicons.org/fastapi/009688" width="36" height="36" alt="FastAPI"/>
@@ -65,7 +65,7 @@
 ---
 
 ### 🧠 AI / Data Science
-<p align="center">
+<p align="left">
   <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="36" height="36" alt="NumPy"/>
   <img src="https://cdn.simpleicons.org/pandas/FFCA00" width="36" height="36" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="36"  width="36" alt="matplotlib logo" />
@@ -77,7 +77,7 @@
 ---
 
 ### 🛠 Other Tools
-<p align="center">
+<p align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git"/>
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub"/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker"/>
