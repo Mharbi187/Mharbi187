@@ -12,7 +12,7 @@
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" height="36" alt="Facebook"/>
   </a>
   <a href="https://www.linkedin.com/in/mohamed-harbi-4385471ab">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn"/>
+    <img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://www.flaticon.com/free-icon/linkedin_3536569?term=linkedin&page=1&position=2&origin=tag&related_id=3536569)" width="36" height="36" alt="LinkedIn"/>
   </a>
   <a href="mailto:hrbim756@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail"/>
