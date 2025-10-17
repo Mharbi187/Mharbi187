@@ -2,17 +2,17 @@
 👋 Hi, I'm **Mohamed Harbi**  
 🎓 Computer Science Student  
 💻 MERN Stack Developer  
-🤖 Passionate about **AI & Machine Learning**
+🤖 Passionate about **AI & Machine Learning**  
 
 ---
 
 ## 🌐 Socials
-<p align="left">
+<p align="center">
   <a href="https://www.facebook.com/mohamed.harbi.371662/">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" height="36" alt="Facebook"/>
   </a>
   <a href="https://www.linkedin.com/in/mohamed-harbi-4385471ab">
-    <img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://www.flaticon.com/free-icon/linkedin_3536569?term=linkedin&page=1&position=2&origin=tag&related_id=3536569)" width="36" height="36" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn"/>
   </a>
   <a href="mailto:hrbim756@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail"/>
@@ -21,13 +21,13 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 🧠 Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/c/00599C" width="36" height="36" alt="C"/>
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" height="36" alt="C++"/>
-  <img src="https://cdn.simpleicons.org/java/ED8B00" width="36" height="36" alt="Java"/>
+  <img src="https://cdn.simpleicons.org/java/F80000" width="36" height="36" alt="Java"/>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript"/>
   <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python"/>
@@ -38,7 +38,7 @@
 ---
 
 ### 🌐 Frontend
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5"/>
   <img src="https://cdn.simpleicons.org/css3/1572B6" width="36" height="36" alt="CSS3"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React"/>
@@ -50,24 +50,24 @@
 ---
 
 ### 🧰 Backend & Tools
-<p align="left">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36" alt="Node.js"/>
-  <img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express"/>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/node.js/339933" width="36" height="36" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/express/ffffff" width="36" height="36" alt="Express.js"/> <!-- white version for dark mode -->
   <img src="https://cdn.simpleicons.org/fastapi/009688" width="36" height="36" alt="FastAPI"/>
   <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="36" height="36" alt="JWT"/>
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" height="36" alt="Firebase"/>
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="36" height="36" alt="Netlify"/>
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="36" height="36" alt="Vercel"/>
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="36" height="36" alt="Vercel"/> <!-- white for dark mode -->
   <img src="https://cdn.simpleicons.org/apache/D22128" width="36" height="36" alt="Apache"/>
 </p>
 
 ---
 
 ### 🧠 AI / Data Science
-<p align="left">
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/matplotlib/11557c" width="36" height="36" alt="Matplotlib"/>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="36" height="36" alt="NumPy"/> <!-- brighter blue -->
+  <img src="https://cdn.simpleicons.org/pandas/FFCA00" width="36" height="36" alt="Pandas"/> <!-- yellow to stand out on dark -->
+  <img src="https://cdn.simpleicons.org/matplotlib/3366CC" width="36" height="36" alt="Matplotlib"/> <!-- bright blue for dark -->
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="Scikit-Learn"/>
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" height="36" alt="TensorFlow"/>
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="36" height="36" alt="PyTorch"/>
@@ -76,9 +76,9 @@
 ---
 
 ### 🛠 Other Tools
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="36" height="36" alt="GitHub"/> <!-- white for dark mode -->
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker"/>
   <img src="https://cdn.simpleicons.org/jira/0052CC" width="36" height="36" alt="Jira"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="36" height="36" alt="Postman"/>
@@ -89,17 +89,27 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Mharbi187&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://streak-stats.demolab.com/?user=Mharbi187&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mharbi187&theme=tokyonight&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mharbi187&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Mharbi187&theme=tokyonight&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mharbi187&theme=tokyonight&hide_border=false&layout=compact" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mharbi187&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mharbi187&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Mharbi187&icon=0&color=12)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Mharbi187&icon=0&color=12" alt="Profile views"/>
+  </a>
+</p>
 
 <!-- Created with ❤️ by Mohamed Harbi -->
